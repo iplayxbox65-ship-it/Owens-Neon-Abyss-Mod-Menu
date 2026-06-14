@@ -1,5 +1,11 @@
 # Owen's Neon Abyss Mod Menu
-
+![Game](https://img.shields.io/badge/Game-Neon%20Abyss-blue)
+![Version](https://img.shields.io/badge/Version-1.0.0-green)
+![Loader](https://img.shields.io/badge/Loader-Included-purple)
+![Status](https://img.shields.io/badge/Status-Active%20Development-brightgreen)
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
+![Singleplayer](https://img.shields.io/badge/Mode-Single--Player-orange)
+![License](https://img.shields.io/badge/License-Custom-red)
 An advanced single-player mod menu for **Neon Abyss** featuring gameplay tools, item spawning, weapon systems, room controls, and quality-of-life features.
 
 > **Status:** Active Development
